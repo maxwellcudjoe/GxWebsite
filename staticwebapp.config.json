@@ -1,0 +1,17 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/WebistePicturesFeatures/*", "*.{css,js,svg,png,jpg,jpeg,gif,ico,woff,woff2}"]
+  },
+  "routes": [
+    {
+      "route": "/WebistePicturesFeatures/*",
+      "headers": {
+        "cache-control": "public, max-age=604800"
+      }
+    }
+  ],
+  "mimeTypes": {
+    ".json": "application/json"
+  }
+}
