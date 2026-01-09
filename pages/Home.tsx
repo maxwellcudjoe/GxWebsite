@@ -49,7 +49,7 @@ const Home: React.FC = () => {
                 <span className="block text-transparent bg-clip-text bg-gradient-to-r from-brand-300 to-cyan-300">
                   Core Banking System
                 </span>
-                for Micro-Credit
+                for Lending Institutions
               </h1>
               
               <p className="mt-6 text-lg leading-8 text-slate-300 max-w-xl">
@@ -187,7 +187,7 @@ const Home: React.FC = () => {
       <div className="bg-slate-50 py-12 border-y border-slate-200">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="flex flex-col items-center">
-            <p className="text-sm font-medium text-slate-500 mb-6">Built for MCAG-regulated micro-credit institutions in Ghana</p>
+            <p className="text-sm font-medium text-slate-500 mb-6">Built for micro-credit and microfinance institutions in Ghana</p>
             <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-4">
               <div className="flex items-center gap-2 text-slate-400">
                 <Building2 className="h-6 w-6" />
@@ -218,7 +218,7 @@ const Home: React.FC = () => {
               Complete Solution
             </span>
             <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
-              Everything you need to run your MFI
+              Everything you need to run your institution
             </h2>
             <p className="mt-4 text-lg text-slate-600">
               From loan origination to regulatory reporting, GxLMS handles it all.
@@ -361,7 +361,7 @@ const Home: React.FC = () => {
                 Why GxLMS
               </span>
               <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl mb-6">
-                Built specifically for Ghana's micro-credit sector
+                Built specifically for Ghana's lending sector
               </h2>
               <p className="text-lg text-slate-400 mb-8">
                 Unlike generic banking software, GxLMS was designed from the ground up for MCAG-regulated institutions, with local compliance requirements built into every feature.
@@ -445,7 +445,7 @@ const Home: React.FC = () => {
             </blockquote>
             <div className="mt-8">
               <div className="font-semibold text-slate-900">Operations Manager</div>
-              <div className="text-slate-600">Leading MFI in Accra</div>
+              <div className="text-slate-600">Financial Institution, Accra</div>
             </div>
           </div>
         </div>
@@ -462,11 +462,11 @@ const Home: React.FC = () => {
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">
               Ready to modernize your
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-brand-300 to-cyan-300">
-                micro-credit operations?
+                lending operations?
               </span>
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-slate-300">
-              GxLMS helps micro-credit institutions streamline lending, manage risk, and improve operational efficiency.
+              GxLMS helps lending institutions streamline operations, manage risk, and improve efficiency.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link

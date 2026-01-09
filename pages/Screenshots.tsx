@@ -225,7 +225,7 @@ const Screenshots: React.FC = () => {
               Designed for Efficiency
             </h2>
             <p className="mt-4 text-lg text-slate-600">
-              GxLMS features an intuitive interface designed specifically for micro-credit institution workflows.
+              GxLMS features an intuitive interface designed specifically for lending institution workflows.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -237,7 +237,7 @@ const Screenshots: React.FC = () => {
             <div className="bg-white p-6 rounded-xl border border-slate-200">
               <div className="text-4xl font-bold text-brand-600">120+</div>
               <div className="text-slate-900 font-semibold mt-2">Features</div>
-              <p className="text-slate-500 text-sm mt-1">Comprehensive functionality for all MFI operations</p>
+              <p className="text-slate-500 text-sm mt-1">Comprehensive functionality for all lending operations</p>
             </div>
             <div className="bg-white p-6 rounded-xl border border-slate-200">
               <div className="text-4xl font-bold text-brand-600">100%</div>

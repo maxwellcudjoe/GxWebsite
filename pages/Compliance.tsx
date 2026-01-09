@@ -12,7 +12,7 @@ const Compliance: React.FC = () => {
             MCAG Regulatory Compliance
           </h1>
           <p className="mt-6 text-lg leading-8 text-brand-100 max-w-2xl mx-auto">
-            GxLMS is built from the ground up for MCAG-regulated micro-credit institutions. Automated quarterly returns, PAR tracking, and complete audit trails.
+            GxLMS is built from the ground up for regulated lending institutions. Automated quarterly returns, PAR tracking, and complete audit trails.
           </p>
         </div>
       </div>

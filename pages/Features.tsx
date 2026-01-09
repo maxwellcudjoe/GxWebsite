@@ -17,7 +17,7 @@ const Features: React.FC = () => {
               Complete Core Banking Features
             </h1>
             <p className="mt-6 text-xl leading-8 text-brand-100">
-              GxLMS is a comprehensive multi-tenant core banking solution designed for MCAG-regulated micro-credit institutions. Every feature you need to manage customers, loans, deposits, treasury, compliance, and more.
+              GxLMS is a comprehensive multi-tenant core banking solution designed for lending institutions. Every feature you need to manage customers, loans, deposits, treasury, compliance, and more.
             </p>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Features: React.FC = () => {
           <div className="mx-auto max-w-2xl lg:text-center mb-16">
             <h2 className="text-base font-semibold leading-7 text-brand-600">Core Modules</h2>
             <p className="mt-2 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
-              Everything you need to run a micro-credit institution
+              Everything you need to run a lending institution
             </p>
           </div>
           <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -323,7 +323,7 @@ const Features: React.FC = () => {
             Ready to see GxLMS in action?
           </h2>
           <p className="mt-6 text-lg leading-8 text-brand-100 max-w-2xl mx-auto">
-            Schedule a demo to see how GxLMS can streamline your micro-credit operations and ensure MCAG compliance.
+            Schedule a demo to see how GxLMS can streamline your operations and ensure regulatory compliance.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a

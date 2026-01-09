@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
           <div className="max-w-xl lg:max-w-lg">
             <h2 className="text-3xl font-bold tracking-tight text-slate-900">Get in touch</h2>
             <p className="mt-4 text-lg leading-8 text-slate-600">
-              Have questions about GxLMS? Need a custom quote? Our team is ready to help you transform your micro-credit operations.
+              Have questions about GxLMS? Need a custom quote? Our team is ready to help you transform your lending operations.
             </p>
             <dl className="mt-8 space-y-8 text-base leading-7 text-slate-600">
               <div className="flex gap-x-4">
