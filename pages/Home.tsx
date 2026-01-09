@@ -183,27 +183,27 @@ const Home: React.FC = () => {
         </div>
       </div>
 
-      {/* Trusted By Section */}
+      {/* Platform Highlights */}
       <div className="bg-slate-50 py-12 border-y border-slate-200">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="flex flex-col items-center">
-            <p className="text-sm font-medium text-slate-500 mb-6">Trusted by MCAG-regulated institutions across Ghana</p>
+            <p className="text-sm font-medium text-slate-500 mb-6">Built for MCAG-regulated micro-credit institutions in Ghana</p>
             <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-4">
               <div className="flex items-center gap-2 text-slate-400">
                 <Building2 className="h-6 w-6" />
-                <span className="font-semibold">10+ MFIs</span>
+                <span className="font-semibold">Multi-Branch Support</span>
               </div>
               <div className="flex items-center gap-2 text-slate-400">
                 <Users className="h-6 w-6" />
-                <span className="font-semibold">50,000+ Customers</span>
+                <span className="font-semibold">Complete KYC</span>
               </div>
               <div className="flex items-center gap-2 text-slate-400">
                 <Banknote className="h-6 w-6" />
-                <span className="font-semibold">₵100M+ Disbursed</span>
+                <span className="font-semibold">Loan & Deposit Management</span>
               </div>
               <div className="flex items-center gap-2 text-slate-400">
-                <Star className="h-6 w-6" />
-                <span className="font-semibold">99.9% Uptime</span>
+                <ShieldCheck className="h-6 w-6" />
+                <span className="font-semibold">MCAG Compliant</span>
               </div>
             </div>
           </div>
@@ -466,7 +466,7 @@ const Home: React.FC = () => {
               </span>
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-slate-300">
-              Join the growing network of MCAG-regulated institutions using GxLMS to streamline lending, manage risk, and grow their portfolio.
+              GxLMS helps micro-credit institutions streamline lending, manage risk, and improve operational efficiency.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link
